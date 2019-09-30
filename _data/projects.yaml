@@ -1,29 +1,47 @@
-- title: Halve Jekyll Theme
-  url: http://taylantatli.me/Halve
+- title: Shepherd Productions
+  url: https://www.shepherdproductions.ga
+  completed: false
+  
+- title: Erka Army Website
+  url: http://www.erkaarmy.ga
   image: http://taylantatli.me/Halve/images/halve-home-image.png
-  completed: false
-
-- title: Moon Jekyll Theme
-  url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
   completed: true
 
-- title: Ramme Jekyll Theme
-  url: http://taylantatli.me/Ramme
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
+- title: Kondek Games
+  url: https://games.bradykondek.ga
+  image: https://www.bradykondek.ga/pics/kondek-games-logo.png
   completed: true
-
-- title: Daisy Pelican Theme
-  url: http://taylantatli.me/Daisy-Pelican-Theme/
-  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
+  
+  - title: 2020 BSHS Webmaster Project
+  url: https://www.bshswebmaster.ga
+  image: https://www.bradykondek.ga/pics/tsa-logo.png
   completed: true
-
-- title: Block Icon Theme
-  url: https://github.com/TaylanTatli/Block-Icon-Theme
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
-  completed: false
-
-- title: Start Page
-  url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
-  completed: false
+  
+  - title: Study BSHS
+  url: https://www.studybshs.ga
+  image: https://www.bradykondek.ga/pics/bshs-logo.png
+  completed: true
+  
+  - title: 2019 STEM Animation Project
+  url: https://www.bradykondek.ga/2019-stem-animation/
+  image: https://www.bradykondek.ga/pics/tsa-logo.png
+  completed: true
+  
+  - title: 2019 Website Design Project
+  url: https://www.escapix.ml
+  image: https://www.bradykondek.ga/pics/escapix-logo.png
+  completed: true
+  
+  - title: Super Sports Man Racing
+  url: https://www.supersportsmanraing.ml
+  image: https://www.bradykondek.ga/pics/super-sports-man-racing-logo.png
+  completed: true
+  
+  - title: Play Games For Free
+  url: https://playgamesforfree.ga
+  image: https://www.bradykondek.ga/pics/play-games-for-free-logo.png
+  completed: true
+  
+  - title: The Inside Earth Science Game
+  url: https://www.bradykondek.ga/inside-earth-science-game/
+  completed: true
