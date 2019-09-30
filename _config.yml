@@ -1,6 +1,6 @@
 # Site
-title: Brady Kondek - Official Website
-description: Stylish, Two-Column Jekyll Theme
+title: Brady Kondek
+description: Official Website
 url: https://www.bradykondek.ga
 logo: halve.png                                       # Site logo
 locale: en_US
@@ -52,7 +52,7 @@ github:             bradykondek
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
