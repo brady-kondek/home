@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: The Inside Earth Science Game
 toc_level: 6
 category: Games
@@ -7,6 +7,7 @@ tags:
   - Games
 status: COMPLETE
 date: 2017-5-18
+permalink: /inside-earth-science-game
 ---
 
 ### <u>About This Project</u>
