@@ -1,11 +1,12 @@
 ---
 title: Study BSHS
-layout: post
+layout: page
 category: School
 status: COMPLETE
 tags: 
   - School
 date: 2019-8-3
+permalink: /study-bshs
 ---
 
 <center><img src="https://www.bradykondek.ga/pics/bshs-logo_50.png"></center>
