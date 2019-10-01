@@ -1,11 +1,12 @@
 ---
 title: 2019 STEM Animation Project
-layout: post
+layout: page
 category: TSA
 tags: 
   - TSA
 status: COMPLETE
 date: 2019-4-9
+permalink: /2019-stem-animation-project
 ---
 
 ## <u>About This Project</u>
