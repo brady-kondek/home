@@ -2,6 +2,8 @@
 title: Super Sports Man Racing
 layout: post
 category: Sports
+tags: 
+  - Sports
 status: COMPLETE
 date: 2018-10-2
 ---
