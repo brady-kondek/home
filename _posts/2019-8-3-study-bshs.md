@@ -3,6 +3,8 @@ title: Study BSHS
 layout: post
 category: School
 status: COMPLETE
+tags: 
+  - School
 date: 2019-8-3
 ---
 
