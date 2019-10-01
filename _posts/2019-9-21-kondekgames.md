@@ -3,6 +3,8 @@ layout: post
 title: Kondek Games
 toc_level: 6
 category: Games
+tags: 
+  - Games
 status: COMPLETE
 date: 2019-9-21
 ---
