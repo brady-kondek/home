@@ -2,6 +2,8 @@
 title: Erka Army Website
 layout: post
 category: Games
+tags: 
+  - Games
 status: COMPLETE
 date: 2019-9-22
 ---
