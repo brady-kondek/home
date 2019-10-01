@@ -1,11 +1,12 @@
 ---
 title: 2019 Website Design Project
-layout: post
+layout: page
 category: TSA
 tags: 
   - TSA
 status: COMPLETE
 date: 2018-12-6
+permalink: /2019-website-design-project
 ---
 
 <center><img src="https://www.bradykondek.ga/pics/tsa-logo.png"></center>
