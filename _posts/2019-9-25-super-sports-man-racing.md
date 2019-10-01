@@ -1,11 +1,12 @@
 ---
 title: Super Sports Man Racing
-layout: post
+layout: page
 category: Sports
 tags: 
   - Sports
 status: COMPLETE
 date: 2018-10-2
+permalink: /super-sports-man-racing
 ---
 
 ## <u>About this Project</u>
