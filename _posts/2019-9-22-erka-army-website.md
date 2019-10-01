@@ -1,11 +1,13 @@
 ---
 title: Erka Army Website
-layout: post
-category: Games
-tags: 
+layout: page
+category: Identity
+tags:
+  - Identity
   - Games
 status: COMPLETE
 date: 2019-9-22
+permalink: /erka-army-website
 ---
 
 ## <u>About This Project</u>
