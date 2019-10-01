@@ -28,7 +28,7 @@ To download this project, please visit:
 
 ### <u>Please Help Out This Project</u>
 
-Please help this project out by submitting new games to the master project.  You can submit games by filling out the <a href="https://games.bradykondek.ga/contact-us">Contact Us</a> form and including a link to the source code for the game(s) that you'd like to add.
+Please help this project out by submitting new games to the master project.  You can submit games by filling out the <a target="_blank" href="https://games.bradykondek.ga/contact-us">Contact Us</a> form and including a link to the source code for the game(s) that you'd like to add.
 
 
 ### <u>List of Games Included</u>
