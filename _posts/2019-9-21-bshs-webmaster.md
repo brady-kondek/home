@@ -1,11 +1,12 @@
 ---
 title: 2020 BSHS Webmaster Project
-layout: post
+layout: page
 category: TSA
 tags: 
   - TSA
 status: NOT COMPLETE
 date: 2019-9-14
+permalink: /bshs-webmaster
 ---
 
 <center><img src="https://www.bradykondek.ga/pics/tsa-logo.png"></center>
