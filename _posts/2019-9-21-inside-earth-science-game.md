@@ -3,6 +3,8 @@ layout: post
 title: The Inside Earth Science Game
 toc_level: 6
 category: Games
+tags: 
+  - Games
 status: COMPLETE
 date: 2017-5-18
 ---
