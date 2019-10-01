@@ -1,11 +1,12 @@
 ---
 title: Play Games For Free
-layout: post
+layout: page
 category: Games
 tags: 
   - Games
 status: COMPLETE
 date: 2018-5-20
+pernalink: /play-games-for-free
 ---
 
 
