@@ -1,11 +1,12 @@
 ---
 title: DisneyWorldMan Website
-layout: post
+layout: page
 category: Identity
 tags: 
   - Identity
 status: NOT COMPLETE
 date: 2019-9-23
+permalink: /disneyworldman-website
 ---
 
 
