@@ -2,6 +2,8 @@
 title: Play Games For Free
 layout: post
 category: Games
+tags: 
+  - Games
 status: COMPLETE
 date: 2018-5-20
 ---
