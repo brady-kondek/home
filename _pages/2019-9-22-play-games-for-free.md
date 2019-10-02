@@ -12,10 +12,13 @@ permalink: /play-games-for-free
 
 Play Games For Free is a game site made like the Kondek Games site, but looks more like an actual game site.  Games are occasionally added from time to time.
 
+<hr>
+
 ## <u>Site History</u>
 
 Play Games For Free was originally a site made for someone by ESBN Enterprises in May 2018.  The client was requesting a site to be made so they could add games to it.  But eventually they did not want to have the site anymore.  So ESBN regained control of the site and turned it into the game site it is today.
 
+<hr>
 
 ## <u>Screenshots</u>
 
@@ -23,12 +26,15 @@ Play Games For Free was originally a site made for someone by ESBN Enterprises i
 <br>
 <a target="_blank" href="https://www.bradykondek.ga/pics/pg2.png">Screenshot 2</a>
 
+<hr>
 
 ## <u>View the Site</u>
 
 To view the site, please visit:
 
 <a target="_blank" href="https://playgamesforfree.ga">https://playgamesforfree.ga</a>
+
+<hr>
 
 ## <u>Resources Used</u>
 
