@@ -12,4 +12,4 @@ permalink: /ejswimmer101/schedule
 <b><u>Saturday:</u>11:30 AM
 <b><u>Sunday:</u>11:30 AM
 
-***All times are Eastern Standard Time (EST), and are subject to change at anytime.
+<center>***All times are Eastern Standard Time (EST), and are subject to change at anytime.</center>
