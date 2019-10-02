@@ -11,6 +11,7 @@ permalink: /erka-army
 
 This is the home page made for a clan in Clash of Clans, called Erka Army.  This site has everything the clan needs including a war information center, forum area, an area for announcements, and more!
 
+<hr>
 
 ## <u>View the Site</u>
 
