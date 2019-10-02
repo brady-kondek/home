@@ -11,6 +11,8 @@ permalink: /super-sports-man-racing
 
 Super Sports Man Racing is a blog-website made for a client themed to race cars, more specifically dirt racing.
 
+<hr>
+
 ## <u>View the Site</u>
 
 To view the site, please visit:
