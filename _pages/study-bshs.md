@@ -13,6 +13,8 @@ permalink: /study-bshs
 
 Study BSHS is a group of websites that I made, for personal use, that contains school related stuff, like homework, study guides, and all other related things.  This site is not intended for the public, so each site is User protected, except for the Home Page.
 
+<hr>
+
 ### <u>Home Page Demo</u>
 
 If you would like to view the home page, the only public area of the site group, please visit:
