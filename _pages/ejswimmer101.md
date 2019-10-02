@@ -5,6 +5,7 @@ permalink: /ejswimmer101
 ---
 <center><img src="https://www.bradykondek.ga/pics/ejswimmer101.png"></center>
 <br>
+<hr>
 <center><h3><u>Quick Links:</u></h3></center>
 <br>
 <center><a href="https://www.bradykondek.ga/ejswimmer101/pics">Pics</a></center>
