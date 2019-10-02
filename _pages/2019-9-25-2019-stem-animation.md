@@ -11,9 +11,13 @@ permalink: /2019-stem-animation-project
 
 This is a video that was made for a TSA event as well.  The event was called STEM Animation.  In this event, you are to make a video/animation based off of the current theme.  The theme at the time was Artificial Intelligence and what it can become.
 
+<hr>
+
 ## <u>Competition<u>
 
 This project placed 3rd at the Region 3 Pennsylvania TSA conference in Gettysburg, Pennsylvania on February 2nd, 2019.  It moved on to states, April 10th - April 13th, at Seven Springs Mountain Resort in Champion, Pennsylvania. Sadly it did not place there.
+
+<hr>
 
 ## <u>View the Video</u>
 
