@@ -17,6 +17,7 @@ Kondek Games is a game website.  This site contains PHP/HTML/Flash games that in
 
 Site URL: <a target="_blank" href="https://games.bradykondek.ga">https://games.bradykondek.ga</a>
 
+<hr>
 
 ### <u>Download</u>
 
@@ -25,11 +26,13 @@ To download this project, please visit:
 
 <a target="_blank" href="https://github.com/bradykondek/kondekgames">https://github.com/bradykondek/kondekgames</a>
 
+<hr>
 
 ### <u>Please Help Out This Project</u>
 
 Please help this project out by submitting new games to the master project.  You can submit games by filling out the <a target="_blank" href="https://games.bradykondek.ga/contact-us">Contact Us</a> form and including a link to the source code for the game(s) that you'd like to add.
 
+<hr>
 
 ### <u>List of Games Included</u>
 1. 2048
@@ -48,6 +51,7 @@ Please help this project out by submitting new games to the master project.  You
 14. Puzzle Monsters
 15. 3D Chess
 
+<hr>
 
 ### <u>License</u>
 
@@ -55,6 +59,7 @@ This project has an MIT License.  To learn more about the license for this proje
 
 <a target="_blank" href="https://github.com/bradykondek/kondekgames/blob/master/LICENSE">https://github.com/bradykondek/kondekgames/blob/master/LICENSE</a>
 
+<hr>
 
 ### <u>Contact</u>
 
