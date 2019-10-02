@@ -7,7 +7,8 @@ date: 2018-5-20
 permalink: /play-games-for-free
 ---
 
-
+<center><img src="https://www.bradykondek.ga/pics/play-games-for-free-logo.png"></center>
+<br>
 ## <u>About This Project</u>
 
 Play Games For Free is a game site made like the Kondek Games site, but looks more like an actual game site.  Games are occasionally added from time to time.
