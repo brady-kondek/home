@@ -12,6 +12,8 @@ permalink: /inside-earth-science-game
 
 The Inside Earth Science Game is a Batch-coded question game in which you answer questions based on the inside of the earth.  There are 13 questions.
 
+<hr>
+
 ### <u>Download</u>
 
 To download this game, please visit:
