@@ -9,7 +9,7 @@ locale: en_US
 background:
   homepage: images/IMG_4213.JPG                          # this image will be shown on homepage's left block
   post-list: images/new_jersey.jpg            # this image will be shown on post list page
-  default-post: images/unsplash-gallery-image-3.jpg   # this image will be shown when post's front matter doesn't specify any image
+  default-post: images/children-s-lake.jpg   # this image will be shown when post's front matter doesn't specify any image
 
 # Jekyll
 permalink:          /:title/
