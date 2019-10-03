@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brady Kondek Website Design
+title: Website Design
 permalink: /website-design
 ---
 
