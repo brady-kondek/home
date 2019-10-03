@@ -5,6 +5,7 @@ category: Announcements
 tags:
   - Announcements
 date: 2019-10-3
+permalink: /brady-kondek-website-design
 ---
 
 Do you want a custom made site to fit your needs?  If so, please fill out the form below and we can get started!
