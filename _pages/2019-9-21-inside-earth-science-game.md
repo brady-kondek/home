@@ -18,4 +18,4 @@ The Inside Earth Science Game is a Batch-coded question game in which you answer
 
 To download this game, please visit:
 
-<a target="_blank" href="https://g.esbnonline.ml/tiesgdownload">https://g.esbnonline.ml/tiesgdownload</a>
+<a target="_blank" href="https://www.insideearthsciencegame.ga">https://www.insideearthsciencegame.ga</a>
