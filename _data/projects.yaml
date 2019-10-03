@@ -1,9 +1,14 @@
+- title: How To Make A Website
+  url: https://www.howtomakeawebsite.ga
+  image: https://taylantatli.me/Halve/images/halve-home-image.png
+  completed: false
+
 - title: DisneyWorldMan
   url: https://www.bradykondek.ga/disneyworldman
   image: https://www.bradykondek.ga/pics/twitch-logo.jpg
   completed: true
   
-- title: ejswimmer101
+- title: EJSwimmer101
   url: https://www.ejswimmer101.ga
   image: https://www.bradykondek.ga/pics/twitch-logo.jpg
   completed: true
