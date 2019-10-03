@@ -6,6 +6,7 @@ tags:
   - Announcements
 date: 2019-10-2
 status: In Progress
+permalink: /shepherd-productions
 ---
 
 <center><h1>Shepherd Productions</h1></center>
