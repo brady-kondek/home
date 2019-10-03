@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Brady Kondek Website Design
-permalink: /brady-kondek-website-design
+permalink: /website-design
 ---
 
 Do you want a custom made site to fit your needs?  If so, fill out the form below and we can then get started!
