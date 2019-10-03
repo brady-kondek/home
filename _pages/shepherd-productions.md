@@ -3,7 +3,7 @@ layout: page
 title: Shepherd Productions
 date: 2019-10-2
 status: In Progress
-permalink: /shepherd-productions
+permalink: /projects/shepherd-productions
 ---
 
 <center><h1><u>Shepherd Productions</h1></u></center>
