@@ -4,4 +4,4 @@ title: Home
 ---
 # Brady Kondek
 
-Welcome to my site! This is the place where you can find all of my projects.  I also make websites for people.  If you would like a custom-made site, click on the Web Design tab above.
+Welcome to my site! This is the home portal for all that I make and do.  I make custom websites for whatever purpose.  If you would like a website customly designed, visit the Web Design Registration page by clicking the button at the top of the page.
